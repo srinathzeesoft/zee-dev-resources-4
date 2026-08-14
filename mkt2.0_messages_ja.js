@@ -1,5 +1,5 @@
 Mkt3L10n.AccountAnalyzerChart = {
-  Trend: "Trend checking",
+  Trend: "Trend checking testing",
   Opportunity: "商談",
   Interactions: "インタラクション数",
   Week_Of_Date_Interaction: "<b>{0} の週- ({1} インタラクション{2})</b> ",
