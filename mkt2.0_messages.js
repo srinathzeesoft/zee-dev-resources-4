@@ -1,6 +1,6 @@
 {
   "Mkt3L10n.LpSettings.Personalized_Url_Message": "/a> to edit this]",
-  "Mkt3L10n.AccountAnalyzerChart.Trend": "Trend checking checking checking test test checking checking checking checking checking",
+  "Mkt3L10n.AccountAnalyzerChart.Trend": "Trend checking checking checking test test",
   "Mkt3L10n.EmailEditor.Preview_image": "Preview",
   "Mkt3L10n.LpSettings.Please_contact_customer_support_to_edit_this_rule": "Please contact <a href=\"mailto:support@marketo.com\">support@marketo.com<",
   "Mkt3L10n.AccountAnalyzerChart.Opportunity": "Opportunity",
